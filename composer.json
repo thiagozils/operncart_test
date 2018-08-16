@@ -1,0 +1,6 @@
+{
+    "name": "thiagozils/operncart_test",
+    "require": {
+        "ext-gd": "*"
+    }
+}
