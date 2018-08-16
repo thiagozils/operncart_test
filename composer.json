@@ -1,5 +1,5 @@
 {
-    "name": "heroku/opencartbsi",
+    "name": "heroku/operncart_test",
     "require": {
         "ext-gd": "*"
     }
