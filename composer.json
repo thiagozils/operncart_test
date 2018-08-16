@@ -1,5 +1,5 @@
 {
-    "name": "operncart_test",
+    "name": "opencartbsi",
     "require": {
         "ext-gd": "*"
     }
