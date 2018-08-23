@@ -1,5 +1,13 @@
- {
-   "require": {
-	   "verot/class.upload.php": "dev-master"
-   }
+{
+    "name": "Opencart_test",
+    "description": "Breve descrição do que a aplicação se propoe a fazer",
+    "authors": [
+        {
+            "name": "Seu nome",
+            "email": "seu-email@seu-dominio.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8"
+    }
 }
